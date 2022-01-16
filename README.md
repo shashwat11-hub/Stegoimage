@@ -225,10 +225,6 @@ There are two options `Encode` and `Decode`. In the encode section you can hide 
 This is the well `documented` library. I have documented each and every method that I have used, so have a good read to the code and suggest some changes and new feature to be added in the library.  
 Feel free to <a href = "https://github.com/aagarwal1012/Image-Steganography-Library-Android/issues">open an issue</a>.
 
-# Donate
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> - [PayPal](https://www.paypal.me/aagarwal1012/)
 
 ## Contributors ✨
 
@@ -252,7 +248,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ```
 MIT License
 
-Copyright (c) 2018 Ayush Agarwal
+Copyright (c) 2018 Shashwat Sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
